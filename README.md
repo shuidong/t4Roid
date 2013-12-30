@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <resources>
  <ID="1" IP="192.168.1.249" ServerName="老罗→服务器" Status="1"/>
  <ID="2" IP="192.168.1.115" ServerName="韩武军→服务器" Status="1"/>
